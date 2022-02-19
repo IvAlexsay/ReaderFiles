@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1584205422 source:c:\codeblocks\projects\interfaces\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1638473179 source:c:\codeblocks\projects\interfaces\temp.c
+	"temp.h"
+
+1638473145 c:\codeblocks\projects\interfaces\temp.h
+	<windows.h>
+	<stdio.h>
+	<limits.h>
+
+1639137870 source:c:\codeblocks\projects\interfaces\main.c
+	<tchar.h>
+	<windows.h>
+	"events.h"
+	"menu.h"
+
+1639244064 source:c:\codeblocks\projects\interfaces\font.c
+	"font.h"
+	<stdio.h>
+
+1638485848 c:\codeblocks\projects\interfaces\font.h
+	<windows.h>
+
+1639244845 source:c:\codeblocks\projects\interfaces\file_buffer.c
+	"file_buffer.h"
+	<stdio.h>
+
+1638485727 c:\codeblocks\projects\interfaces\file_buffer.h
+	<windows.h>
+
+1639244064 source:c:\codeblocks\projects\interfaces\events.c
+	"events.h"
+	"menu.h"
+	<commdlg.h>
+	<limits.h>
+
+1639137870 c:\codeblocks\projects\interfaces\events.h
+	"global.h"
+
+1638738491 c:\codeblocks\projects\interfaces\global.h
+	<windows.h>
+	"file_buffer.h"
+	"screen_buffer.h"
+	"font.h"
+
+1639244244 c:\codeblocks\projects\interfaces\screen_buffer.h
+	"file_buffer.h"
+	"font.h"
+
+1639700244 source:c:\codeblocks\projects\interfaces\screen_buffer.c
+	"screen_buffer.h"
+	<stdio.h>
+	<limits.h>
+
+1639088021 c:\codeblocks\projects\interfaces\menu.h
+	"global.h"
+	<commdlg.h>
+
+1638615752 source:c:\codeblocks\projects\interfaces\menu.rc
+	"menu.h"
+
+1639096439 source:c:\codeblocks\projects\interfaces\menu.c
+	"menu.h"
+
